@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Check out my games! [aperaine.itch.io](aperaine.itch.io)</p>
+<p align="left">Check out my games! https://aperaine.itch.io</p>
 
 ###
 
