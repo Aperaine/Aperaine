@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cloud-ofamn5cnq-hack-club-bot.vercel.app/0100_coins_upscaled.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
@@ -24,5 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+<img align="right" height="150" src="https://cloud-ofamn5cnq-hack-club-bot.vercel.app/0100_coins_upscaled.gif"  />
 
 ###
