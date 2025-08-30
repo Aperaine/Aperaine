@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I make games</h2>
+<h2 align="left">I make games</h2>
 
 ###
 
